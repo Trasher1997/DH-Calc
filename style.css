@@ -1,0 +1,66 @@
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 40px;
+  position: relative;
+  text-shadow: 3px 3px 3px #000000;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 40px; 
+  position: relative;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+h4 { 
+  font-weight: bold;
+  font-size: 70px;
+  margin-left: 30px;
+  text-shadow: 4px 4px 4px #000000;
+  position: absolute;
+  top: 13%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0); 
+  padding: 10px; 
+  white-space: nowrap;
+}
+
+#kinematic, #simple_task, #inverse_task, #about_me0, #about_me1, #about_me2, #about_me3, #dh_parameters {
+  font-size: 25px;
+  font-family: Times New Roman;
+  margin-left: 60px;
+  margin-right: 50px;
+  max-width: 1200px;
+}
+
+img {
+  margin-left: -28px;
+  margin-right: -25px;
+  margin-top: -15px;
+}
+
+.last-value {  
+  font-size: 20px;
+  font-family: Times New Roman;
+  margin-left: 5px;
+  white-space: nowrap;
+}
+
+.last-value input[type=checkbox] {
+  transform: scale(2); 
+}
+.button {
+  background-color: #808080; 
+  color: #000000;
+  font-size: 18px;
+  font-family: Times New Roman;
+}
